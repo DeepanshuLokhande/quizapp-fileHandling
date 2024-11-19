@@ -1,0 +1,54 @@
+What is a primary key?
+A key that can accept duplicate values,A unique identifier for a record,A key used for foreign keys,None of the above
+A unique identifier for a record
+What does SQL stand for?
+Structured Query Language,Stylish Question Language,Structured Question Language,None of the above
+Structured Query Language
+What is a foreign key?
+A key that is unique across all tables,A key that points to a primary key in another table,A key that cannot accept null values,None of the above
+A key that points to a primary key in another table
+Which command is used to delete a table in SQL?
+DROP TABLE,DELETE TABLE,REMOVE TABLE,TRUNCATE TABLE
+DROP TABLE
+Which of the following is a database model?
+Relational Model,Hierarchical Model,Network Model,All of the above
+All of the above
+What is normalization?
+Process of organizing data,Process of storing data,Process of deleting data,Process of retrieving data
+Process of organizing data
+What is a join in SQL?
+Combining rows from two or more tables,Creating a new table,Deleting a record,None of the above
+Combining rows from two or more tables
+What is a view in SQL?
+A virtual table based on a SQL query,An actual table in the database,A command to retrieve data,None of the above
+A virtual table based on a SQL query
+Which SQL statement is used to retrieve data from a database?
+SELECT,GET,RETRIEVE,SHOW
+SELECT
+What does the acronym ACID stand for in databases?
+Atomicity_Consistency_Isolation_Durability,Accuracy_Consistency_Isolation_Durability,Atomicity_Completeness_Isolation_Durability,None of the above
+Atomicity_Consistency_Isolation_Durability
+What is a stored procedure?
+A set of SQL statements stored in the database,A method for optimizing queries,A data storage method,None of the above
+A set of SQL statements stored in the database
+What is indexing?
+A way to speed up retrieval of rows,A method for organizing tables,A process of deleting data,None of the above
+A way to speed up retrieval of rows
+What is the purpose of a transaction?
+To group a set of operations,To retrieve data,To delete data,None of the above
+To group a set of operations
+Which of the following is not a type of JOIN?
+INNER JOIN,OUTER JOIN,CROSS JOIN,DIAMOND JOIN
+DIAMOND JOIN
+What is the command to update data in SQL?
+MODIFY,UPDATE,CHANGE,SET
+UPDATE
+What is a database schema?
+The structure of a database,A command to create a database,A method for deleting data,None of the above
+The structure of a database
+What is the purpose of the GROUP BY clause?
+To group rows that have the same values in specified columns,To filter records,To sort records,None of the above
+To group rows that have the same values in specified columns
+What is the default sorting order of the ORDER BY clause?
+Ascending,Descending,Random,None of the above
+Ascending

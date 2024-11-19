@@ -1,0 +1,57 @@
+What is the output of print(type([]))?
+<class 'list'>,<class 'dict'>,<class 'tuple'>,<class 'set'>
+<class 'list'>
+Which of the following is a mutable data type?
+tuple,list,string,int
+list
+What keyword is used to create a function in Python?
+def,function,create,func
+def
+Which of these data types is not built-in in Python?
+list,tuple,array,dict
+array
+What is the correct way to create a list in Python?
+list = {},list = [],list = (),list = ''
+list = []
+What does the len() function do?
+Returns the length of an object,Returns the last element,Returns the number of elements,None of the above
+Returns the length of an object
+Which of the following is a Python built-in function?
+print(),input(),len(),All of the above
+All of the above
+Which operator is used to concatenate strings in Python?
++,*,-,&
++
+How do you start a comment in Python?
+//,#,/*,--
+#
+What is the correct way to handle exceptions in Python?
+try/except,catch/throw,throw/catch,handle/exception
+try/except
+What will be the output of print(0.1 + 0.2 == 0.3)?
+True,False,0,1
+False
+What is a dictionary in Python?
+An unordered collection of items,An ordered collection of items,A list of key-value pairs,Both A and C
+Both A and C
+What function can be used to convert a string to an integer?
+int(),str(),float(),convert()
+int()
+What does the 'in' keyword do?
+Checks if a value exists in an iterable,Adds a value to an iterable,Removes a value from an iterable,None of the above
+Checks if a value exists in an iterable
+Which method is used to add an element at the end of a list?
+add(),append(),insert(),extend()
+append()
+Which of the following is not a keyword in Python?
+assert,nonlocal,pass,foreach
+foreach
+How can you create a set in Python?
+set(),[],{},()
+set()
+Which operator is used for floor division in Python?
+//,/,%,^
+//
+How do you open a file in Python?
+open(),file(),read(),write()
+open()

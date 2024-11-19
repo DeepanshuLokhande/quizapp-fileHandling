@@ -1,0 +1,60 @@
+What is the output of System.out.println(1 + 2 + "3")?
+3,6,33,123
+33
+Which of these is a valid declaration of a boolean variable?
+boolean b = 1;,boolean b = 'true';,boolean b = true;,boolean b = 0;
+boolean b = true;
+What is the main function in Java?
+public static void main(String[] args),void main(String[] args),public void main(String[] args),static void main(String[] args);
+public static void main(String[] args)
+Which of these is not a Java feature?
+Dynamic,Architecture Neutral,Use of pointers,Object-oriented
+Use of pointers
+What is the correct way to create an object in Java?
+MyClass obj = new MyClass();,MyClass obj = MyClass();,MyClass obj;,new MyClass obj = new MyClass();
+MyClass obj = new MyClass();
+Which statement is used to exit a loop in Java?
+exit,break,stop,continue
+break
+Which keyword is used for inheritance in Java?
+extends,inherits,implements,includes
+extends
+What is the size of int in Java?
+2 bytes,4 bytes,8 bytes,16 bytes
+4 bytes
+Which of the following is a valid identifier in Java?
+1stName,first name,_firstName,first-name
+_firstName
+What does JVM stand for?
+Java Variable Machine,Java Virtual Machine,Java Volume Machine,Java Visual Machine
+Java Virtual Machine
+Which operator is used to allocate memory for an array in Java?
+malloc,new,alloc,array
+new
+What is the default value of a boolean variable in Java?
+true,false,0,1
+false
+Which method can be used to find the length of a string in Java?
+length(),getLength(),size(),len()
+length()
+Which of these keywords is used to define a constant in Java?
+const,constant,final,static
+final
+Which of these is a built-in type in Java?
+String,List,Array,int
+int
+What is the correct syntax to output 'Hello World' in Java?
+System.out.println('Hello World');,print('Hello World');,echo 'Hello World';,Console.WriteLine('Hello World');
+System.out.println('Hello World');
+Which operator is used to compare two values in Java?
+=,==,===,!=;
+==
+Which keyword is used to import packages in Java?
+using,import,include,require
+import
+What does 'static' mean in Java?
+The variable belongs to the class rather than instances,The variable is temporary,The variable can change its value, The variable is private;
+The variable belongs to the class rather than instances
+Which of these is not a Java reserved keyword?
+interface,throws,native,subclass
+subclass
